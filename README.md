@@ -1,4 +1,5 @@
-<h1>Hi, I'm Prasenjit! <br/><a href="https://github.com/click2jit">Network Engineer</a>, <a href="https://www.linkedin.com/in/click2jit/">Cybersecurity enthusiast</a></h1>
+<h1>Hi, I'm Prasenjit! <br/><a href="https://www.coursera.org/account/accomplishments/professional-cert/Y8RFUNRVFCKB">Google Cybersecurity</a> | <a href="https://www.linkedin.com/in/click2jit/">Network Engineer</a></h1>
+<p> I am an aspiring <b>penetration tester</b> with a strong foundation in networking, programming, and cybersecurity principles. Seeking opportunities to apply my technical skills and ethical hacking mindset to identify vulnerabilities, enhance cybersecurity posture, and contribute to the protection of digital assets.</p>
 <!--
 <h2>👨‍💻 Software Development Projects:</h2>
 
